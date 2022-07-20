@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: Hello! My name is Yeon-Ji Lim and I'm front-end web developer.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -59,15 +59,15 @@ blurb-btn-name: know more
 work-process:
   - title: "Research and Plan"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Research and plan content"
 
   - title: "Design and Develop"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Design and develop content"
 
   - title: "Deliver"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Deliver content"
 
 # My Team Section
 team:
@@ -88,33 +88,33 @@ team:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: JavaScript, color: "#fdb157", value: "90%" }
+  - { name: CSS, color: "#9473e6", value: "60%" }
+  - { name: Java, color: "#bdecf6", value: "80%" }
+  - { name: Spring, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Project
 experience:
   - {
-      name: Junior UX Designer,
+      name: WMS Web developer,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "Jun 2020 - Oct 2020",
+      organization: "FASTBOX",
     }
   - {
-      name: UX & UI Designer,
+      name: WMS Web developer,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "Oct 2020 - Jun 2021",
+      organization: "PETSBE",
     }
   - {
-      name: Senior UI Designer,
+      name: WMS & TMS Web developer,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Jul 2021 - Present",
+      organization: "HYUNDAI GLOVIS",
     }
 
 #-------------------------------
@@ -123,24 +123,14 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Computer Enginering,
+      date: "Mar 2012 - Feb 2016",
+      organization: "Myung-Ji University",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
-    }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: Software development,
+      date: "Dec 2018 - Dec 2019",
+      organization: "Samsung Software Academy for Youth (SSAFY)",
     }
 
 #-------------------------------
@@ -300,4 +290,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: reusepaper210@gmail.com
